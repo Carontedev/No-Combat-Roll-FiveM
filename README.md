@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/fearx-logo.png" alt="FearX logo from the loading screen" width="180">
+</p>
+
 # CS No Combat Roll
 
 Standalone FiveM resource that prevents combat rolls during active combat input while keeping normal jumping, sprint-jumping, vaulting, and climbing available outside combat.
