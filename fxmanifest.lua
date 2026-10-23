@@ -3,10 +3,8 @@ game 'gta5'
 
 author 'Car0nte.'
 
-description 'no_combat_roll - Resource to completely disable combat roll during combat'
+description 'Blocks combat-roll input while preserving normal jump and vault'
 
-version '1.0.0'
-
-lua54 'yes'
+version '2.2.0'
 
 client_script 'client.lua'
